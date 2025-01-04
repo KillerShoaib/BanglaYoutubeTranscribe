@@ -1,0 +1,6 @@
+.env
+venv/
+Audio/
+BanglaAudioZipFile.zip
+wandb/
+.clinerules
