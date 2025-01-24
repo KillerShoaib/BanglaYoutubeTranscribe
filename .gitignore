@@ -3,4 +3,5 @@ venv/
 Audio/
 BanglaAudioZipFile.zip
 wandb/
+artifacts/
 .clinerules
