@@ -1,0 +1,25 @@
+"""All the playlist of rakibul hasan"""
+
+playLists = ["https://www.youtube.com/playlist?list=PL5NPSn95n_L5rb7CgsArCSEy3bZI7xov-",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L6s1Q5VZDfbk2CKwahEK3Rg",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L6WWtG7OY91nMFkJ0D1RghY",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L7rAXzfQuMzvZ_znSbGB6XX",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L6N_ZM_Re-f043jt-dmR9em",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L7kKarBeQjLSEVLeen3CgP7",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L4Z5bpCOqHW_QU8nxgywGM2",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L5bsFrggj-Kg5N1_GrwtFyq",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L4q_XXLhru80NaTbFSpZlEW",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L4sMoCygyX3cKkSOKdQA_BT",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L5jneeVttR4M9JGCR432WHt",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L6otapZwZILRZ0016XSyKS7",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L4A4avTNLKeEZNZbVGhuHWF",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L64yse4BRzRYFn5HTYw1Ewb",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L7XouyUuSbNE-v3zxq5LxfV",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L5UIuCYp0ZUAVB-DBkGh9pZ",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L4AUOUjfZamspLzCAEeJW3p",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L4_foe3F8iKwNn9Ovhtuikg",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L7aZhL_-vpqnD3cyZwQGAwz",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L5jOaUoLci1_b6jiB_RM7at",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L6CSS4SigXij06NbVl-ckIa",
+                "https://www.youtube.com/playlist?list=PL5NPSn95n_L7758jfVvrlmWuKiWR3VnlU"
+             ]
