@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/d20294f8-fdcc-41a7-a0a1-7a701c83056f)
 
-This project aims to automate all the youtube videos of bangla youtuber. For demonstration I've chosen Rakibul Islam utub chanel who is the most influencial AI content creator in Bangla. But this project can be run for any bangla youtuber.
+This project aims to automate all the youtube videos of bangla youtuber. For demonstration I've chosen Rakibul Hasan utub chanel who is the most influencial AI content creator in Bangla. But this project can be run for any bangla youtuber.
 
 # Motivation Behind This Project
 
@@ -12,7 +12,7 @@ First, I want to state this this project is not intended for commercial use. Tra
 2. When I was working with LLM and AI models, one thing that frustrated me that how little resource we've for **Bangla** language. 
 3. So, I decided myself either I can be mad about it or do something that'll help the next gen of people who want to build bangla AI models for **Bangla** language.
 4. Not only LLMs, but for RAG and better retriever we need more **Bangla** dataset. As a professional Jr. AI engineer I found we have no solid embedding model in bangla which is open source nor have a big knowledge base for any particular domain. I want to change that. Okay let's be honest I myself may not change entirely but I want to start from somewhere and maybe it'll motivate others to follow the path and start contributing to the community.
-5. Lastly I want to build something which my sensei (sir) would be proud of. That's why I've chosen **Rakibul Islam** utub chanel and tried to build a knowledge base from his utub videos. I was inspired by his contribution to the bangla open source community and I owe my career to him. **Without his books I'd not be here right now**. Sensei, if you're reading this, then all I wanna say **"Thank you for everything, I hope this makes you somewhat proud"**
+5. Lastly I want to build something which my sensei (sir) would be proud of. That's why I've chosen **Rakibul Hasan** utub chanel and tried to build a knowledge base from his utub videos. I was inspired by his contribution to the bangla open source community and I owe my career to him. **Without his books I'd not be here right now**. Sensei, if you're reading this, then all I wanna say **"Thank you for everything, I hope this makes you somewhat proud"**
 
 # Huggingface Dataset
 
@@ -93,7 +93,7 @@ before showing how to run the project I think giving you how the overall project
 
 ### 1.  All the Playlist Url in `PlaylistUrl`
 
-I manually grab all the playlist in the "Rakibul Islam" utub chanel and paste them in the `PlaylistUrl.py` file. "But, Shoaib why grab all the playlist url link manually?" I was feeling lazy that's all, there weren't much playlist to begin with that's why I didn't automate the process but it can easily be automated.
+I manually grab all the playlist in the "Rakibul Hasan" utub chanel and paste them in the `PlaylistUrl.py` file. "But, Shoaib why grab all the playlist url link manually?" I was feeling lazy that's all, there weren't much playlist to begin with that's why I didn't automate the process but it can easily be automated.
 
 ### 2. Getting all the playlist video url in `VideoLinks.py`
 
@@ -122,7 +122,7 @@ Since we've all the video url (utub video link) now all we need is the audio of 
 1. I tried to completely automated this entire part but wasn't able to do that thanks to evil corp Google. Google was making it super difficult to download utub videos even using pytube library. I need to provide `po_token` manuallly first to run the script. Please refer to this github [pull request](https://github.com/JuanBindez/pytubefix/pull/209) for more details.
 Providing the `po_token` manually makes the script semi automated not fully automated. So we can't run this on virtual machine or schedule a run with this script cause every time we run the script we need to provide the `po_token`. There is a way to automate it but that was way out of the scope of this project.
 
-2. Even after giving the `po_token` there way many instances where the audio wasn't downloaded. It return empty file. I think this is due to utub anti bot policy where they are preventing downloading the audio in many cases. Therefore I wasn't able to download all the utub audio from the "Rakibul Islam" channel. I've downloaded total **302 videos**
+2. Even after giving the `po_token` there way many instances where the audio wasn't downloaded. It return empty file. I think this is due to utub anti bot policy where they are preventing downloading the audio in many cases. Therefore I wasn't able to download all the utub audio from the "Rakibul Hasan" channel. I've downloaded total **302 videos**
 
 ### 4. Saving to & Downloading from Wandb
 
