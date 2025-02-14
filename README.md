@@ -1,5 +1,7 @@
 # Utub Bangla Transcription
 
+![Image](https://github.com/user-attachments/assets/d20294f8-fdcc-41a7-a0a1-7a701c83056f)
+
 This project aims to automate all the youtube videos of bangla youtuber. For demonstration I've chosen Rakibul Islam utub chanel who is the most influencial AI content creator in Bangla. But this project can be run for any bangla youtuber.
 
 # Motivation Behind This Project
