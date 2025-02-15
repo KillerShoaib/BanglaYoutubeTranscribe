@@ -2,14 +2,14 @@
 
 ![Image](https://github.com/user-attachments/assets/d20294f8-fdcc-41a7-a0a1-7a701c83056f)
 
-This project aims to automate all the youtube videos of bangla youtuber. For demonstration I've chosen Rakibul Hasan utub chanel who is the most influencial AI content creator in Bangla. But this project can be run for any bangla youtuber.
+This project aims to automate all the youtube videos of bangla youtubers. For demonstration I've chosen Rakibul Hasan utub chanel who is the most influencial AI content creator in Bangladesh. But this project can be run for any bangla youtuber.
 
 # Motivation Behind This Project
 
-First, I want to state this this project is not intended for commercial use. Transcribing youtube videos and using it for commercial usage is completely prohibited.
+**First, I want to state this project is not intended for commercial use. Transcribing youtube videos and using it for commercial usage is completely prohibited.**
 
 1. My first motivation is to contribute to **Bangla** open source community
-2. When I was working with LLM and AI models, one thing that frustrated me that how little resource we've for **Bangla** language. 
+2. When I was working with LLM and AI models, one thing that frustrated me that how little resources we've for **Bangla** language. 
 3. So, I decided myself either I can be mad about it or do something that'll help the next gen of people who want to build bangla AI models for **Bangla** language.
 4. Not only LLMs, but for RAG and better retriever we need more **Bangla** dataset. As a professional Jr. AI engineer I found we have no solid embedding model in bangla which is open source nor have a big knowledge base for any particular domain. I want to change that. Okay let's be honest I myself may not change entirely but I want to start from somewhere and maybe it'll motivate others to follow the path and start contributing to the community.
 5. Lastly I want to build something which my sensei (sir) would be proud of. That's why I've chosen **Rakibul Hasan** utub chanel and tried to build a knowledge base from his utub videos. I was inspired by his contribution to the bangla open source community and I owe my career to him. **Without his books I'd not be here right now**. Sensei, if you're reading this, then all I wanna say **"Thank you for everything, I hope this makes you somewhat proud"**
@@ -35,7 +35,7 @@ That's it! You're all set to go.
 
 # Why use Google's model (the evil one who stole all of our data)
 
-First of all everyone is stoling our data, that's not something new. But there are several reasons I've chosen the google's Gemini model.
+First of all everyone is stealing our data, that's not something new. But there are several reasons I've chosen the google's Gemini model.
 
 1. 1.5k free request per day to their latest model (I'd say that's generous of them)
 2. And their STT feature from their `gemini-flash-2.0-exp` is quite good and I was satisfied with the overall result.
